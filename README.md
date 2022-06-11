@@ -109,3 +109,6 @@ Lehet listázni, lekérdezni, létrehozni, minden adatot módosítani (kivéve a
 ### Nem-funkcionális követelmények
 
 Klasszikus háromrétegű alkalmazás, MySQL adatbázissal, Java Spring backenddel, REST webszolgáltatásokkal.
+
+### Linkek:
+UML: [google drive](https://drive.google.com/file/d/1MMEiW0rxklmGgc5TuU1gJrPCKAiWPy_X/view?usp=sharing)
